@@ -1,5 +1,5 @@
 import java.util.Scanner;
-    public class Main {
+    public class main {
     public static double calculateDiscount(double price, double discountPercentage) {
         double discount = price * discountPercentage / 100;
         return price - discount;
