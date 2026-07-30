@@ -13,7 +13,8 @@ public class Main {
         name = "elkhal";
         age = 20;
         gpa = 3.98;
-        isStudent = true;;
+        isStudent = true;
+        ;
 
         System.out.println(name);
         System.out.println(age);
@@ -27,15 +28,15 @@ public class Main {
         System.out.println(a - b);
         System.out.println(a * b);
         System.out.println(a / b);
-        System.out.println (a % b);
+        System.out.println(a % b);
 
         a += 5;
         b *= 2;
 
-        System.out.println( + a);
-        System.out.println( + b);
+        System.out.println(+a);
+        System.out.println(+b);
 
-        int i =5;
+        int i = 5;
 
         System.out.println(++i);
         System.out.println(i++);
