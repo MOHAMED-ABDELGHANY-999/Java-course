@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Mini Banking System/Mini Banking System.iml" filepath="$PROJECT_DIR$/Mini Banking System/Mini Banking System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task5/SimpleCalculator/SimpleCalculator.iml" filepath="$PROJECT_DIR$/task5/SimpleCalculator/SimpleCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleCalculator/Student Marks Analyzer/Student Marks Analyzer.iml" filepath="$PROJECT_DIR$/SimpleCalculator/Student Marks Analyzer/Student Marks Analyzer.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-course.iml" filepath="$PROJECT_DIR$/java-course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simpleCalculator/simpleCalculator.iml" filepath="$PROJECT_DIR$/simpleCalculator/simpleCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/student Marks Analyzer/student Marks Analyzer.iml" filepath="$PROJECT_DIR$/student Marks Analyzer/student Marks Analyzer.iml" />
       <module fileurl="file://$PROJECT_DIR$/task5/task5.iml" filepath="$PROJECT_DIR$/task5/task5.iml" />
     </modules>
   </component>
