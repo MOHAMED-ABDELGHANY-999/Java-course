@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class MiniBankingSystem {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        int accountNumber = 1000;
+        int accountNumber = 5000;
         double balance = 1000;
         int choice;
         do {
@@ -41,7 +41,6 @@ public class MiniBankingSystem {
                 case 3:
                     System.out.println("Thank you for using the system.");
                     break;
-
                 default:
                     System.out.println("Invalid option.");
             }
